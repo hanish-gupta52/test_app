@@ -1,0 +1,111 @@
+    1  git config -- global user.name "hanish"
+    2  git config--global user.name "hanish"
+    3  git config --global user.name "hanish"
+    4  git config --global user.email "namburi.hanish52@gmail.com"
+    5  git config --global http.sslverify "false"
+    6  git config --list
+    7  pwd
+    8  ls
+    9  mkdir test_app
+   10  pwd
+   11  ls
+   12  cd test_app
+   13  pwd
+   14  ls
+   15  cd ..
+   16  cd test_app
+   17  cd ..
+   18  cd "Saved Games"
+   19  ls
+   20  clear
+   21  cd test_app
+   22  cd ..
+   23  ls
+   24  clear
+   25  cd test_app
+   26  ls
+   27  pwd
+   28  mkdir f1
+   29  ls
+   30  mkdir f1 f2 f3 f4 f5
+   31  mkdir f2 f3 f4 f5
+   32  ls
+   33  rmdir f5
+   34  ls
+   35  rmdir f4
+   36  rmdir f2 f3 
+   37  ls
+   38  rmdir f1
+   39  ls
+   40  mkdir f1 f2 f3 f4 f5
+   41  ls
+   42  rmdir f1 f2 f3 f4 f5
+   43  ls
+   44  mkdir f1
+   45  ls
+   46  ls
+   47  cd f1
+   48  ls
+   49  cd ..
+   50  rmdir f1
+   51  rm -r f1
+   52  ls
+   53  touch f1.txt
+   54  ls
+   55  touch f2.sql f3.py f4.txt
+   56  ls
+   57  cat f1.txt
+   58  cat f4.txt
+   59  nano f4.txt
+   60  nano f3.py
+   61  cat f3.py
+   62  pwd
+   63  cd desktop
+   64  pwd
+   65  ls
+   66  mkdir test_app
+   67  ls
+   68  cd test_app
+   69  ls
+   70  pwd
+   71  cd ..
+   72  cd ../..
+   73  pwd
+   74  cd desktop
+   75  cd 
+   76  cd desktop
+   77  pwd
+   78  cd test_app
+   79  pwd
+   80  mkdir f1
+   81  mkdir f2 f3 f4
+   82  rm f1
+   83  rmdir f1
+   84  cd fe
+   85  cd f2
+   86  touch sample.txt
+   87  cd ..
+   88  ls
+   89  cd f2
+   90  ls
+   91  cd ..
+   92  ls
+   93  rm f2
+   94  rmdir f2
+   95  rm -r f2
+   96  ls
+   97  rm f3 f4
+   98  rmdir f3 f4
+   99  touch sample.txt
+  100  cat sample.txt
+  101  nano sample.txt
+  102  cat sample.txt
+  103  clear
+  104  cd ..
+  105  pwd
+  106  ls
+  107  clear
+  108  cd test_app
+  109  ls
+  110  pwd
+  111  history >> commands.txt
